@@ -10,7 +10,6 @@ I am Rahul Bhatia, a Data Scientist and a Software Developer, with a high degree
 [![GitHub Rahul](https://img.shields.io/github/followers/rbhatia46?label=follow&style=social)](https://github.com/rbhatia46)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rbhatia46.rbhatia46) 
 
 <!---
 _Last updated: October 2018_

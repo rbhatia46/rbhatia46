@@ -10,7 +10,7 @@ I am Rahul Bhatia, a Data Scientist, with a high degree of interest in quantitat
 [![Medium](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@rbhatia46)](https://medium.com/@rbhatia46)
 [![GitHub Rahul](https://img.shields.io/github/followers/rbhatia46?label=follow&style=social)](https://github.com/rbhatia46)
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frbhatia46%2Frbhatia46" alt="Hits">
+<!-- <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frbhatia46%2Frbhatia46" alt="Hits"> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhatia46&layout=compact&hide=html" />
 

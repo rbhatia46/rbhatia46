@@ -2,7 +2,7 @@
 
 # Rahul Bhatia
 
-I am Rahul Bhatia, a Data Scientist/Machine Learning Engineer, with a high degree of interest in quantitative  research and financial markets.
+I am Rahul Bhatia, a Data Scientist, with a high degree of interest in quantitative  research and financial markets.
 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rbahtia46/)](https://twitter.com/rbhatia46/)
